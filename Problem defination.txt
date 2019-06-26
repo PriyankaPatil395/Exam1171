@@ -1,0 +1,40 @@
+
+there is one company rockwell Automation Inc. has presence over the world.
+the head Quarter is in London and 17 offshore development centers.
+rockwell automation had private cloud for their IT solutions.
+but now due of the growth of company
+and also the number of employees also 35000 which is a big number.
+therfore company want to use Amazon Web Services. which is public cloude infrastructure as service.
+create instace on cloude and deploye the inforation or data on cloud
+It is the secure sevice, which will reduce the cost of infrastructure.
+the company wants all employees should be able to access their Human Resource Solutions portal from anywhere in world.
+the employees can open there account on github to access information from anywhere. 
+
+
+
+
+
+functional Requirements:
+6-employee login 
+7-employee registration
+1-authentication
+0:display employee Information, company information
+1-add company records on cloud
+2-update record
+3- add Employee record
+4-remove employee record
+5-update employee record
+6-upload Documents
+7-download documents
+
+
+non_functional Requirements of employee mangment:
+1:scalability
+2:time require should be minimum
+3:maintanablity
+4:efficiency
+5:accessability
+
+
+
+
